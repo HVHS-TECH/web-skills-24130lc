@@ -1,3 +1,31 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(209, 152, 99);
   }
+
+nav {
+    background-color: rgb(194, 65, 56);
+    color: white;
+    width: 500px;
+    border:50px;
+    border: 2px solid black;
+}
+
+main {
+  color: green;
+  background-color: rgb(255, 0, 0);
+  width: 500px;
+  border:50px;
+  border: 2px solid black;
+}
+button {
+  color: yellow;
+}
+
+.news {
+background-color: rgb(207, 198, 158);
+font-family: Georgia, 'Times New Roman', Times, serif;
+border: 2px solid black;
+margin: 30px;
+padding: 30px;
+width: 500px;
+}
