@@ -1,0 +1,8 @@
+.container {
+  display:flex;
+  background-color: dodgerblue;
+  padding: 10px;
+}
+body {
+    background-color: rgb(161, 161, 161);
+  }

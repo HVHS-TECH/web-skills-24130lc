@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(209, 152, 99);
+    background-color: rgb(161, 161, 161);
   }
 
 nav {
@@ -8,11 +8,12 @@ nav {
     width: 500px;
     border:50px;
     border: 2px solid black;
+    text-align: center;
 }
 
 main {
-  color: green;
-  background-color: rgb(255, 0, 0);
+  color: rgb(0, 0, 0);
+  background-color: rgb(207, 198, 158);
   width: 500px;
   border:50px;
   border: 2px solid black;
@@ -22,10 +23,24 @@ button {
 }
 
 .news {
+  position: absolute;
 background-color: rgb(207, 198, 158);
 font-family: Georgia, 'Times New Roman', Times, serif;
 border: 2px solid black;
 margin: 30px;
 padding: 30px;
-width: 500px;
+width: 440px;
+left: -21.3px;
+bottom: 74px;
 }
+
+.image {
+  position: absolute;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid black;
+  width: 1000px;
+  text-align: center;
+  bottom: 105px;
+  right: 394px;
+}
+
